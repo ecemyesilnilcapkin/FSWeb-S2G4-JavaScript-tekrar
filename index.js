@@ -51,9 +51,9 @@ function KareninAlani(kenaruzunlugu) {
 */
 
 function CemberinCevresi(/* kodlar buraya */) {
-  /* kodlar buraya */
+  
 }
-
+ console.log(sayilar.length);
 /* (Oto test yok) Yukarıdaki CemberinCevresi fonksiyonunu yarıçap = 5 vererek aşağıda çalıştırıp, sonucu konsolda gözlemleyin (console.log)  */
 
 /* 	GÖREV 2:  
